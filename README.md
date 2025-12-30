@@ -1,7 +1,7 @@
 ## Hi there 👋
 # My name is Darius Priester
-<h1> <a href="https://linkedin.com/in/dariuspriester">Senior IT Support /Operations Professional</a></h1>
-
+<h1> <a href="https://linkedin.com/in/dariuspriester">IAM & Intune / Endpoint Security </a></h1>
+I build secure, practical labs around **Microsoft Entra ID (Azure AD), Intune, Conditional Access, and Zero Trust**.
 -<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Storage </b>
