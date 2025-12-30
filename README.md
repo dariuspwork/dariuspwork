@@ -5,7 +5,7 @@
 -<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Storage </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/dariuspwork/osticket-prereqs)
+  - [Azure Storage](https://github.com/dariuspwork/)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dariuspwork/osticket-prereqs)
