@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+ <b>Azure Basic (Creating Azure Storage Resource)</b>
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dariuspwork/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dariuspwork/post-install-config)
