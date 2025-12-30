@@ -2,7 +2,7 @@
 # My name is Darius Priester
 <h1> <a href="https://linkedin.com/in/dariuspriester">Senior IT Support /Operations Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+-<h2>👨‍💻 Information Technology Projects:</h2>
 
  <b>Azure Basic (Creating Azure Storage Resource)</b>
 
