@@ -4,7 +4,7 @@
 
 -<h2>👨‍💻 Information Technology Projects:</h2>
 
- <b>Azure Basic (Creating Azure Storage Resource)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
