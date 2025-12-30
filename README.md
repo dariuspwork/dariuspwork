@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hello My name is Darius Priester
+# My name is Darius Priester
 <h1>Hi, I'm Darius, an <a href="https://linkedin.com/in/dariuspriester">Senior IT Support /Operations Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
